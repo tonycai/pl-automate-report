@@ -1,0 +1,9 @@
+db_host = 127.0.0.1
+db_port = 3306
+db_user = user1
+db_password = password1
+db_name = trac_db
+mail_orgname = orgname
+mail_sender =  xxx@gmail.com
+mail_password = sendper_password1
+mail_receiver = yyy@gmail.com / mail-group
